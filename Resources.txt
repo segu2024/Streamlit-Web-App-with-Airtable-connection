@@ -1,3 +1,8 @@
-[YT Video] Build Streamlit apps in your browser with GitHub Codespaces: https://www.youtube.com/watch?v=vzlQkAzWCeI
+Perplexity Thread (only 2 questions with steps):
+    https://www.perplexity.ai/search/i-want-to-develop-a-private-ap-b2Hr8nw.RTiyfFRuvwVlOA
 
-[Repository] Airtable ⚡ Streamlit Connection Repository: https://github.com/marks/streamlit-airtable-connection?tab=readme-ov-file
+[YT Video] Build Streamlit apps in your browser with GitHub Codespaces: 
+    https://www.youtube.com/watch?v=vzlQkAzWCeI
+
+[Repository] Airtable ⚡ Streamlit Connection Repository: 
+    https://github.com/marks/streamlit-airtable-connection?tab=readme-ov-file
