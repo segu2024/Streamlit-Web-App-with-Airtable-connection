@@ -1,0 +1,3 @@
+[YT Video] Build Streamlit apps in your browser with GitHub Codespaces: https://www.youtube.com/watch?v=vzlQkAzWCeI
+
+[Repository] Airtable ⚡ Streamlit Connection Repository: https://github.com/marks/streamlit-airtable-connection?tab=readme-ov-file
